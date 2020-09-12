@@ -1,0 +1,17 @@
+body {
+  background-color: aqua;
+}
+.box {
+  background-color: white;
+  position: relative;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.fa-quote-left {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
